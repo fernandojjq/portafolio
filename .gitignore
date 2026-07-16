@@ -14,3 +14,7 @@ captures/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# IntelliJ build outputs
+out/
+**/out/
