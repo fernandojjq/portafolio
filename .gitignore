@@ -1,0 +1,16 @@
+# Android Studio / Gradle / Kotlin / Intellij common ignores
+.gradle/
+**/build/
+.idea/
+*.iml
+local.properties
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+/cmake-build-*/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store

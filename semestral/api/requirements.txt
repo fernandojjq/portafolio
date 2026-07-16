@@ -1,0 +1,14 @@
+# API UTPB 360 — instalar con: pip install -r requirements.txt
+fastapi==0.115.*
+uvicorn[standard]==0.34.*
+sqlalchemy==2.0.*
+oracledb==2.5.*          # driver Oracle "thin": no requiere Instant Client
+pydantic-settings==2.7.*
+pyjwt==2.10.*            # firma/verificación de JWT
+bcrypt==4.2.*            # hash de contraseñas
+python-dotenv==1.0.*
+email-validator==2.2.*   # requerido por EmailStr de Pydantic
+
+# Testing
+pytest==8.3.*
+httpx==0.28.*            # cliente que usa TestClient de FastAPI

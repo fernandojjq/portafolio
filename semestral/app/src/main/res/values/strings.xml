@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">UTPB 360</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Bienvenido a UTPB 360</string>
+    <string name="login_subtitulo">United Transoceanic Power Bank</string>
+    <string name="login_usuario">Correo electrónico</string>
+    <string name="login_contrasena">Contraseña</string>
+    <string name="login_boton">Iniciar sesión</string>
+    <string name="login_error_credenciales">Credenciales incorrectas. Verifica tu correo y contraseña.</string>
+    <string name="login_error_campos">Completa todos los campos.</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_saludo">Hola, %1$s</string>
+    <string name="dashboard_mis_cuentas">Mis cuentas</string>
+    <string name="dashboard_cerrar_sesion">Cerrar sesión</string>
+    <string name="cuenta_tipo_ahorro">Cuenta de Ahorro</string>
+    <string name="cuenta_tipo_corriente">Cuenta Corriente</string>
+
+    <!-- Transferencias -->
+    <string name="transferencia_titulo">Nueva transferencia</string>
+    <string name="transferencia_origen">Cuenta de origen</string>
+    <string name="transferencia_destino">Cuenta destino</string>
+    <string name="transferencia_monto">Monto (USD)</string>
+    <string name="transferencia_descripcion">Descripción (opcional)</string>
+    <string name="transferencia_boton">Transferir</string>
+    <string name="transferencia_qr">Escanear código QR</string>
+    <string name="transferencia_qr_pronto">Escaneo de QR disponible próximamente</string>
+    <string name="transferencia_exito">¡Transferencia completada!</string>
+    <string name="transferencia_referencia">Referencia: %1$s</string>
+    <string name="transferencia_volver">Volver al inicio</string>
+    <string name="transferencia_monto_invalido">Ingresa un monto válido mayor a cero.</string>
+    <string name="transferencia_nueva">Hacer otra transferencia</string>
+    <string name="atras">Atrás</string>
+
+    <!-- Genéricos -->
+    <string name="error_red">No se pudo conectar con el banco. Intenta de nuevo.</string>
+    <string name="cargando">Cargando…</string>
+    <string name="reintentar">Reintentar</string>
+</resources>
