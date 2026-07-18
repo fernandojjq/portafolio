@@ -3,19 +3,6 @@
 
 ---
 
-### Universidad Tecnológica de Panamá
-**Facultad de Ingeniería de Sistemas Computacionales**  
-**Departamento de Ciencias de la Computación**  
-
-* **Facilitador:** Jorge Cisneros  
-* **Estudiante:** Fernando Jiménez  
-* **Cédula:** 20-24-7669  
-* **Grupo:** ISF241  
-* **Año:** 2026  
-
-
----
-
 ## 📁 Índice del Portafolio
 
 Este repositorio contiene todo el trabajo realizado a lo largo del semestre en la materia de **Desarrollo Móvil**. A continuación se detallan los proyectos y asignaciones organizados por carpetas:
