@@ -3,28 +3,6 @@
 
 ---
 
-### Universidad Tecnológica de Panamá
-**Facultad de Ingeniería de Sistemas Computacionales**  
-**Departamento de Ciencias de la Computación**  
-
-* **Facilitador:** Jorge Cisneros  
-* **Estudiante:** Fernando Jiménez  
-* **Cédula:** 20-24-7669  
-* **Grupo:** ISF241  
-* **Año:** 2026  
-
----
-
-## 👤 Presentación General del Estudiante
-
-* **Correo Institucional:** [Fernando.jimenez@utp.ac.pa](mailto:Fernando.jimenez@utp.ac.pa)
-* **Título obtenido:** Graduado en Bachiller en Ciencias (Instituto Panamericano).
-* **Conocimientos previos:** Ingeniería de requisitos, Visual Basic, programación web y lectura del libro *"Common Sense Guide to Data Structures and Algorithms"*.
-* **Hobbies o pasatiempos:** Videojuegos y deportes (principalmente el fútbol).
-* **Expectativas de la carrera:** Adquirir el mayor conocimiento posible y demostrar ese conocimiento mediante un buen rendimiento académico.
-
----
-
 ## 📁 Índice del Portafolio
 
 Este repositorio contiene todo el trabajo realizado a lo largo del semestre en la materia de **Desarrollo Móvil**. A continuación se detallan los proyectos y asignaciones organizados por carpetas:
